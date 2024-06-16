@@ -1,6 +1,4 @@
-# 🌍 Welcome to CLOVI.IO 🚀
-
-### CLOVI.IO: Defining Our Mission and Vision
+# CLOVI.IO: Defining Mission and Vision
 
 **CLOVI.IO** stands for the core values and ambitions that drive our project to create immense value for humanity.
 
