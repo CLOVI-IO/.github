@@ -4,11 +4,11 @@
 
 **CLOVI.IO** embodies our highest aspirations and foundational principles:
 
-- **C**ommunity: Cultivating ethical, supportive, and thriving communities.
-- **L**ife: Advancing eco-friendly food production and promoting health through cutting-edge science and technology.
-- **O**rganic: Enhancing organic food systems with innovative, responsible practices.
-- **V**ision: Envisioning a future where Earth, Moon, Mars, and beyond thrive.
-- **I**nnovation: Leveraging AI Agents to enhance ecological sustainability, drive growth, and improve community well-being.
+- **C**ommunity: Building ethical, supportive, thriving communities.
+- **L**ife: Advancing eco-friendly food production and health through cutting-edge science.
+- **O**rganic: Innovating organic food systems with responsible practices.
+- **V**ision: Envisioning a thriving future on Earth, Moon, Mars, and beyond.
+- **I**nnovation: Deploying AI Agents to enhance sustainability, drive growth, and improve community well-being.
 
 These principles drive our mission to create meaningful impact for communities and the environment. **CLOVI.IO** encapsulates our commitment to innovate organic food systems, support community well-being, and drive growth for a thriving future. Join us in shaping the future of food production and distribution for Earth and beyond.
 
