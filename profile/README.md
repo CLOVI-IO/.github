@@ -2,7 +2,7 @@
 
 ### CLOVI.IO: Defining Our Mission and Vision
 
-**CLOVI.IO** stands for the core values and ambitions that drive our project to create immense value for humanity and our community.
+**CLOVI.IO** stands for the core values and ambitions that drive our project to create immense value for humanity.
 
 - **C**ommunity: Building ethical, supportive, and thriving communities globally.
 - **L**egacy: Leading science-driven sustainable food production and health-focused innovation.
