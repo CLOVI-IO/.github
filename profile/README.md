@@ -30,7 +30,7 @@ CLOVI.IO is not just a project—it’s a transformative initiative designed to 
 
 By joining CLOVI.IO, you become part of a visionary movement committed to building a future that is sustainable, inclusive, and impactful—not only for Earth but for humanity’s next frontiers. Together, we can drive global change, unlock economic opportunities, and create resilient ecosystems that support thriving communities.  
 
-For more information or to contribute to CLOVI.IO, visit our [website](https://clovi.io), explore our [documentation](./docs), or connect with us on our platforms below.  
+For more information or to contribute to CLOVI.IO, visit our [website](https://clovi.io), explore our [documentation](https://github.com/CLOVI-IO/Documentation), or connect with us on our platforms below.  
 
 ---
 
